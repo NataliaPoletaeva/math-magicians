@@ -28,10 +28,19 @@ button {
   border: 1px solid #d8cec6;
   text-align: center;
   height: 3rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #d6d6d6;
 }
 
 .orange {
   background-color: #f5913e;
+}
+
+.orange:hover {
+  background-color: #f78325;
 }
 
 .zero {
