@@ -18,7 +18,6 @@ This app is a project for the third module of the Microverse curriculum.
 ## Live Demo
 
 [Click here to test the site yourself!](https://sleepy-panini-905730.netlify.app/)
-)
 
 ## Getting Started
 
