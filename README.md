@@ -4,6 +4,9 @@
 
 > This is a simple app to use calculator and see qoutes about math.
 
+![](https://user-images.githubusercontent.com/91270103/149160530-3f4cb2b8-67ac-417b-a7cc-153061dbe7d4.png)
+
+
 This app is a project for the third module of the Microverse curriculum.
 
 ## Built With
@@ -14,7 +17,7 @@ This app is a project for the third module of the Microverse curriculum.
 
 ## Live Demo
 
-[Click here to test the site yourself!]()
+[Click here to test the site yourself!](https://sleepy-panini-905730.netlify.app/)
 
 ## Getting Started
 
