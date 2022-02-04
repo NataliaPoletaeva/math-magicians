@@ -4,7 +4,7 @@
 
 > This is a simple app to use calculator and see qoutes about math.
 
-![](https://user-images.githubusercontent.com/91270103/149160530-3f4cb2b8-67ac-417b-a7cc-153061dbe7d4.png)
+![](https://user-images.githubusercontent.com/91270103/152548743-c3d85645-4349-4733-a4ae-49db4918cff1.png)
 
 
 This app is a project for the third module of the Microverse curriculum.
